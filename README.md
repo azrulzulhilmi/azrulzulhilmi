@@ -26,7 +26,7 @@
 ![Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
 
 
- ## 💼 Experience
+ ## 💼 Experiences:
 
 | 🗓️ Duration        | 🏢 Company                  | 💼 Role                      | 🏭 Industry            |
 |-------------------|-----------------------------|------------------------------|------------------------|
