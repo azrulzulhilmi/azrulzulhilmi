@@ -50,24 +50,21 @@
 
 ### ✍️ Random Dev Quote
 
-<div align="center" style="max-width: 100%; overflow: hidden;">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img 
-      alt="Random Dev Quote" 
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
-      style="width: 100%; max-width: 600px; height: auto;" 
-    />
+    <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="90%" />
   </picture>
-</div>
+</p>
 
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrulzulhilmi/azrulzulhilmi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azrulzulhilmi/azrulzulhilmi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/azrulzulhilmi/azrulzulhilmi/output/github-snake.svg" />
 </picture>
+</p>
 
 ## 🎧 Currently Vibing To
 
@@ -75,7 +72,6 @@
   <img 
     src="https://spotify-recently-played-readme.vercel.app/api?user=t1c5y2vssnnr42e40arcrf2uz" 
     alt="Spotify Recently Played" 
-    style="width: 100%; max-width: 600px; height: auto;" 
   />
 </div>
 > _“Music is the soundtrack of my code.”_ 🎶💻
