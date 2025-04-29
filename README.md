@@ -17,6 +17,7 @@
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white)
 ![COMSOL](https://img.shields.io/badge/COMSOL-002F6C?style=for-the-badge&logo=comsol&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white) 
 ![SuperPro Designer](https://img.shields.io/badge/SuperPro%20Designer-004B87?style=for-the-badge&logoColor=white) 
 ![Risk Simulator](https://img.shields.io/badge/Risk%20Simulator-8A1538?style=for-the-badge&logoColor=white) 
@@ -35,6 +36,9 @@
 
 
 > _"Each step in my career has helped me grow into a versatile and driven professional."_ 🌟
+
+- 👨‍🔬 Graduate Engineer: G1242186A
+- 👨‍🔬 Certified Occupational Safety & Health Coordinator (OSH-C): WP/23/OSHC/02/02068
 
 
 ## 📊 GitHub Stats:
