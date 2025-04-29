@@ -74,6 +74,7 @@
     alt="Spotify Recently Played" 
   />
 </div>
+
 > _“Music is the soundtrack of my code.”_ 🎶💻
 
 
