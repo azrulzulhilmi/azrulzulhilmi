@@ -1,0 +1,14 @@
+name: Update Spotify
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update Spotify Recently Played
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Call Spotify API
+        run: curl https://spotify-recently-played-readme.vercel.app/api?user=t1c5y2vssnnr42e40arcrf2uz
