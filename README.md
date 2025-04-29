@@ -69,12 +69,18 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/azrulzulhilmi/azrulzulhilmi/output/github-snake.svg" />
 </picture>
 
-## 🎧 Currently Vibing to
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=t1c5y2vssnnr42e40arcrf2uz" alt="Spotify Recently Played" />
-</div>
+## 🎧 Currently Vibing To
 
+<div align="center" style="max-width: 100%; overflow: hidden;">
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=t1c5y2vssnnr42e40arcrf2uz" 
+    alt="Spotify Recently Played" 
+    style="width: 100%; max-width: 600px; height: auto;" 
+  />
+</div>
 > _“Music is the soundtrack of my code.”_ 🎶💻
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azrul-zulhilmi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azrulzulhilmi00@gmail.com) 
