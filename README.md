@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Azrul Zulhilmi 💫</h1>
-<h4 align="center">👨‍🔬 Chemical engineering grad → 📊 Data science student @ UKM. On a journey through Big Data & Machine Learning 🚀</h3>
+<h4 align="center">👨‍🔬 Chemical engineering grad → 📊 Data science student @ UKM. On a journey through Big Data & Machine Learning 🚀</h4>
 
-- 🔭 I’m currently working on [Sale Analysis Dashboar](https://github.com/azrulzulhilmi/Dashboard)
-  
+- 🔭 I’m currently working on [Sales Analysis Dashboard](https://github.com/azrulzulhilmi/Dashboard)
+
+---
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
@@ -20,24 +22,29 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
- ## 💼 Experience
+---
+
+## 💼 Experience
 
 | 🗓️ Duration        | 🏢 Company                  | 💼 Role                      | 🏭 Industry            |
 |-------------------|-----------------------------|------------------------------|------------------------|
 | May 2024 – Aug 2024 | **Shin-Etsu (Malaysia)**      | 🏗️ Facility Engineer           | Semiconductor          |
 | Aug 2023 – Apr 2024 | **Puncak Tegap Sdn. Bhd.**    | 🗃️ Data Management Assistant   | IT / Government Project |
-| Aug 2023 – Oct 2023 | **Farmasia Sdn. Bhd.**       | 👨‍🔬 Production Trainee         | Pharmaceutical         |
-
+| Aug 2023 – Oct 2023 | **Farmasia Sdn. Bhd.**        | 👨‍🔬 Production Trainee         | Pharmaceutical         |
 
 > _"Each step in my career has helped me grow into a versatile and driven professional."_ 🌟
 
+---
 
 ## 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrulzulhilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=azrulzulhilmi&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrulzulhilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azrulzulhilmi&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=azrulzulhilmi&theme=graywhite&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrulzulhilmi&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
+
+---
 
 ### ✍️ Random Dev Quote
 
@@ -45,15 +52,23 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
+---
 
-## 🎧 Currently Vibing to
+## 🎧 Currently Vibing To
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=t1c5y2vssnnr42e40arcrf2uz" alt="Spotify Recently Played" />
 </div>
 
 > _“Music is the soundtrack of my code.”_ 🎶💻
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azrul-zulhilmi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azrulzulhilmi00@gmail.com) 
 ---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azrul-zulhilmi/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azrulzulhilmi00@gmail.com)
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
