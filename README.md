@@ -14,11 +14,16 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=gnu&logoColor=white) 
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white)
+![COMSOL](https://img.shields.io/badge/COMSOL-002F6C?style=for-the-badge&logo=comsol&logoColor=white)
 ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white) 
 ![SuperPro Designer](https://img.shields.io/badge/SuperPro%20Designer-004B87?style=for-the-badge&logoColor=white) 
 ![Risk Simulator](https://img.shields.io/badge/Risk%20Simulator-8A1538?style=for-the-badge&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
+
 
  ## 💼 Experience
 
