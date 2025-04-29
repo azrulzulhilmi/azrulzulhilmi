@@ -50,9 +50,18 @@
 
 ### ✍️ Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<div align="center" style="max-width: 100%; overflow: hidden;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <img 
+      alt="Random Dev Quote" 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
+      style="width: 100%; max-width: 600px; height: auto;" 
+    />
+  </picture>
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azrulzulhilmi/azrulzulhilmi/output/github-snake-dark.svg" />
