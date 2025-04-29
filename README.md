@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Azrul Zulhilmi</h1>
-<h4 align="center">I'm a graduate engineer(chemical) where is currently pursue MSc in Data Science and Analytics in UKM. Currently exploring the world of Big Data and Machine Learning.</h3>
+<h1 align="center">Hi 👋, I'm Azrul Zulhilmi 💫</h1>
+<h4 align="center">👨‍🔬 Chemical engineering grad → 📊 Data science student @ UKM. On a journey through Big Data & Machine Learning 🚀</h3>
 
 - 🔭 I’m currently working on [Sale Analysis Dashboar](https://github.com/azrulzulhilmi/Dashboard)
   
@@ -46,7 +46,7 @@
 </div>
 
 
-## 🎧 Currently Vibing To
+## 🎧 Currently Vibing to
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=t1c5y2vssnnr42e40arcrf2uz" alt="Spotify Recently Played" />
 </div>
