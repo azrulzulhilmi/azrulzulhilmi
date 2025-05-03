@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azrul Zulhilmi 💫</h1>
 <h4 align="center">👨‍🔬 Chemical engineering grad → 📊 MSc: Data science student @ UKM. On a journey through Big Data & Machine Learning 🚀</h3>
 
-- 🔭 I’m currently working on [Sale Analysis Dashboar](https://github.com/azrulzulhilmi/Dashboard)
+- 🔭 I’m currently working on [Sales Analysis Dashboar](https://github.com/azrulzulhilmi/Dashboard)
   
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
