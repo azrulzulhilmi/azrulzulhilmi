@@ -25,15 +25,42 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white)
 
+## 💼 Experiences:
 
- ## 💼 Experiences:
+<div align="center">
 
-| 🗓️ Duration        | 🏢 Company                  | 💼 Role                      | 🏭 Industry            |
-|-------------------|-----------------------------|------------------------------|------------------------|
-| May 2024 – Aug 2024 | **Shin-Etsu (Malaysia)**      | 🏗️ Facility Engineer           | Semiconductor          |
-| Aug 2023 – Apr 2024 | **Puncak Tegap Sdn. Bhd.**    | 🗃️ Data Management Assistant   | IT / Government Project |
-| Aug 2023 – Oct 2023 | **Farmasia Sdn. Bhd.**       | 👨‍🔬 Production Trainee         | Pharmaceutical         |
+<table>
+  <thead>
+    <tr>
+      <th>🗓️ Duration</th>
+      <th>🏢 Company</th>
+      <th>💼 Role</th>
+      <th>🏭 Industry</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>May 2024 – Aug 2024</td>
+      <td><strong>Shin-Etsu (Malaysia)</strong></td>
+      <td>🏗️ Facility Engineer</td>
+      <td>Semiconductor</td>
+    </tr>
+    <tr>
+      <td>Aug 2023 – Apr 2024</td>
+      <td><strong>Puncak Tegap Sdn. Bhd.</strong></td>
+      <td>🗃️ Data Management Assistant</td>
+      <td>IT / Government Project</td>
+    </tr>
+    <tr>
+      <td>Aug 2023 – Oct 2023</td>
+      <td><strong>Farmasia Sdn. Bhd.</strong></td>
+      <td>👨‍🔬 Production Trainee</td>
+      <td>Pharmaceutical</td>
+    </tr>
+  </tbody>
+</table>
 
+</div>
 
 > _"Each step in my career has helped me grow into a versatile and driven professional."_ 🌟
 
