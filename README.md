@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azrul Zulhilmi 💫</h1>
 <h4 align="center">👨‍🔬 Chemical engineering grad → 📊 MSc: Data science student @ UKM. On a journey through Big Data & Machine Learning 🚀</h3>
 
-- 🔭 I’m currently working on [Sales Analysis Dashboar](https://github.com/azrulzulhilmi/Dashboard)
+- 🔭 I’m currently working on [Sales Analysis Dashboard](https://github.com/azrulzulhilmi/Dashboard)
   
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -40,13 +40,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>May 2024 – Aug 2024</td>
-      <td><strong>Shin-Etsu (Malaysia)</strong></td>
-      <td>🏗️ Facility Engineer</td>
-      <td>Semiconductor</td>
-    </tr>
-    <tr>
-      <td>Aug 2023 – Apr 2024</td>
+      <td>Aug 2023 – May 2024</td>
       <td><strong>Puncak Tegap Sdn. Bhd.</strong></td>
       <td>🗃️ Data Management Assistant</td>
       <td>IT / Government Project</td>
