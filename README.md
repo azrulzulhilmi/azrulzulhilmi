@@ -46,7 +46,7 @@
       <td>IT / Government Project</td>
     </tr>
     <tr>
-      <td>Aug 2023 – Oct 2023</td>
+      <td>Aug 2022 – Oct 2022</td>
       <td><strong>Farmasia Sdn. Bhd.</strong></td>
       <td>👨‍🔬 Production Trainee</td>
       <td>Pharmaceutical</td>
