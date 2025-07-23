@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -61,6 +63,19 @@
 - 👨‍🔬 Graduate Engineer: G1242186A
 - 👨‍🔬 Certified Occupational Safety & Health Coordinator (OSH-C): WP/23/OSHC/02/02068
 
+## 📚 Currently Learning
+
+<a href="https://www.udemy.com/course/mimsitmi/?couponCode=MT240725G1">
+  <img src="https://img.shields.io/badge/Udemy-Inventory%20Optimization%20%26%20Supply%20Chain%20Planning%20Masterclass-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="28">
+</a>
+
+<a href="https://www.udemy.com/course/data-science-mastery-complete-data-science-bootcamp-2025/">
+  <img src="https://img.shields.io/badge/Udemy-From%20Zero%20to%20Pro%20Data%20Science%20%26%20AI%20Advanced%20Full%20Course%202025-A435F0?style=for-the-badge&logo=udemy&logoColor=white" height="28">
+</a>
+
+## 📜 Completed Certifications
+
+[![Udemy](https://img.shields.io/badge/Udemy-Start%20Career%20in%20CyberSecurity%3A%20The%20Ultimate%20Guide-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=MT240725G1)
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -103,4 +118,5 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azrul-zulhilmi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azrulzulhilmi00@gmail.com) 
 ---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
