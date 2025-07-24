@@ -63,6 +63,12 @@
 - 👨‍🔬 Graduate Engineer: G1242186A
 - 👨‍🔬 Certified Occupational Safety & Health Coordinator (OSH-C): WP/23/OSHC/02/02068
 
+## 📄 Resume & Certificates
+
+[![Resume & Certificates](https://img.shields.io/badge/Resume%20%26%20Certificates-Portfolio-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/azrulzulhilmi/azrulzulhilmi/tree/1a3a4c6da1064a492206c8ff8a8f5edd406026d6/Resume%20%26%20Certificates)
+
+Browse all my formal resume and self-learning proof (Udemy, E-Latih, and more).
+
 ## 📚 Currently Learning
 
 <a href="https://www.udemy.com/course/mimsitmi/?couponCode=MT240725G1">
