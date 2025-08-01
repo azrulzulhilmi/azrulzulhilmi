@@ -65,9 +65,7 @@
 
 ## 📄 Resume & Certificates
 
-[![Resume & Certificates](https://img.shields.io/badge/Resume%20%26%20Certificates-Portfolio-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/azrulzulhilmi/azrulzulhilmi/tree/1a3a4c6da1064a492206c8ff8a8f5edd406026d6/Resume%20%26%20Certificates)
-
-Browse all my formal resume and self-learning proof (Udemy, E-Latih, and more).
+Browse all my formal resume and self-learning proof (Udemy, E-Latih, and more) on [Resume & Certificates](https://github.com/azrulzulhilmi/azrulzulhilmi/tree/1a3a4c6da1064a492206c8ff8a8f5edd406026d6/Resume%20%26%20Certificates)
 
 ## 📚 Currently Learning
 
@@ -82,13 +80,6 @@ Browse all my formal resume and self-learning proof (Udemy, E-Latih, and more).
 ## 📜 Completed Certifications
 
 [![Udemy](https://img.shields.io/badge/Udemy-Start%20Career%20in%20CyberSecurity%3A%20The%20Ultimate%20Guide-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=MT240725G1)
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrulzulhilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=azrulzulhilmi&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrulzulhilmi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
 
 ### ✍️ Random Dev Quote
 
