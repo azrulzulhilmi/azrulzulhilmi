@@ -65,7 +65,7 @@
 
 ## 📄 Resume & Certificates
 
-Browse all my formal resume and self-learning proof (Udemy, E-Latih, and more) on [Resume & Certificates](https://github.com/azrulzulhilmi/azrulzulhilmi/tree/1a3a4c6da1064a492206c8ff8a8f5edd406026d6/Resume%20%26%20Certificates)
+Browse all my formal resume and self-learning proof (Udemy, E-Latih, and more) on [Resume & Certificates](https://github.com/azrulzulhilmi/azrulzulhilmi/tree/0195aaad19482f01fd08765adcec11d70db9a9ca/Resume%20%26%20Certificates)
 
 ## 📚 Currently Learning
 
